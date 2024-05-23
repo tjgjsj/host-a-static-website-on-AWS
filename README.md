@@ -1,3 +1,7 @@
+![Alt text](/Host_a_Static_Website_on_AWS (3).png)
+
+
+
 # Host a Static Website on AWS
 
 This project demonstrates how to host a static HTML web application on Amazon Web Services (AWS) using various AWS resources. The project includes a detailed architecture to ensure high availability, fault tolerance, and security. This readme file provides an overview of the architecture, steps to deploy the web application, and a script for setting up the web server.
